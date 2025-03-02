@@ -1,1 +1,1 @@
-This project focuses on predicting Chronic Obstructive Pulmonary Disease (COPD) using Artificial Neural Networks (ANN). It involves data preprocessing, optimizing ANN architecture with different optimizers, and evaluating model performance using various metrics.
+
